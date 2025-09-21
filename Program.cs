@@ -29,5 +29,6 @@ class Program
         }
 
         Console.WriteLine("Sorted (Descending): " + string.Join(" ", numbers));
+        Console.WriteLine("Adding this message to try revert function.");
     }
 }
