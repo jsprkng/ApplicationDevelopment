@@ -4,7 +4,7 @@ class Program
 {
     static void Main()
     {
-        Console.Write("How many numbers? ");
+        Console.Write("How many numbers do you want to sort? ");
         int n = int.Parse(Console.ReadLine());
         int[] numbers = new int[n];
 
